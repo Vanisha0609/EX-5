@@ -52,7 +52,7 @@ CLIENT:
 
 SERVER:
 
-![3aserver](https://github.com/Vanisha0609/EX-5/assets/119104009/9a09ccc7-31e1-4284-a741-00d8ea1d7c4f)
+![3bserver](https://github.com/Vanisha0609/EX-5/assets/119104009/bbc1a577-aa35-4054-912c-f6d9c975828e)
 
 ## RESULT :
 Thus, python program for simulating RARP protocols using UDP was successfully executed
